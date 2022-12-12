@@ -1,0 +1,68 @@
+C:\Users\Legion\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+C:\Users\Legion\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+C:\Users\Legion\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csprojAssemblyReference.cache
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+C:\Users\Legion\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
+D:\1.VS\Project`s\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+D:\1.VS\Project`s\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+D:\1.VS\Project`s\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.AssemblyReference.cache
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+D:\1.VS\Project`s\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.AssemblyReference.cache
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+E:\Любимая зайка\Программирование для солнышка\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.AssemblyReference.cache
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+C:\Users\256bit.by\Desktop\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.AssemblyReference.cache
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.SuggestedBindingRedirects.cache
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+D:\1.GRSU\3курс\Компьютерное моделирование\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe.config
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\bin\Debug\raspredMaksvell.exe
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\bin\Debug\raspredMaksvell.pdb
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.AssemblyReference.cache
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.SuggestedBindingRedirects.cache
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form1.resources
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.Form2.resources
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.Properties.Resources.resources
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.GenerateResource.cache
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.csproj.CoreCompileInputs.cache
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.exe
+C:\Users\egor_\OneDrive\Рабочий стол\ИК\raspredMaksvell-master\obj\Debug\raspredMaksvell.pdb
